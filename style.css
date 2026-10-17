@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+#display {
+    white-space: pre;
+}
+
+.operator.selected {
+    font-weight: bold;
+    border-width: 2px;
+}
